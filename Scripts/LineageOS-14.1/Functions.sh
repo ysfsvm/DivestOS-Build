@@ -74,6 +74,7 @@ buildAll() {
 	#SD801
 	buildDeviceUserDebug thor; #broken encryption
 	buildDeviceUserDebug apollo;
+ 	buildDeviceUserDebug hammerhead;
 	#SD808
 	buildDevice h811;
 	buildDevice h815;
