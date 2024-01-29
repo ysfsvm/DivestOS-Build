@@ -724,6 +724,7 @@ enableLowRam "device/samsung/tuna";
 #enableLowRam "device/samsung/n5100";
 #enableLowRam "device/samsung/n5110";
 #enableLowRam "device/samsung/n5120";
+#enableLowRam "device/lge/hammerhead";
 ##Tweaks for <4GB RAM devices
 #enableLowRam "device/htc/himaul";
 #enableLowRam "device/htc/himawl";
